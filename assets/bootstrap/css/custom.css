@@ -1,0 +1,36 @@
+.my{
+    min-height: 30px;
+    margin-top: 50px;
+}
+.text{
+    size: 20px;
+    align-items: center;
+}
+.img{
+    width: 400px;
+}.recent-post{
+     height: 600px;
+     background-color: #1b1e21;
+ }
+.recent-post-div{
+    height: 200px;
+    margin: 25px;
+}
+.img-recent{
+    height: 500px;
+    width: 600px;
+}
+.shop{
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.card-div{
+    margin-top: 60px;
+}
+.card-shop{
+    height: 300px;
+}
+.card-image{
+    width: 200px;
+    margin-right: 40px;
+}
